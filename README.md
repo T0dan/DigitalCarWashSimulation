@@ -10,11 +10,11 @@ The conveyor belt, the traffic light and the siren can be toggeld over inputs fr
 The three sensors act as outputs for the component. There are also a toggleable  clock and a reset output.
 The clock toggles every time there is an event in the car wash simulation.
 
-![animation](distribution/animation.png)
+![animation](distribution/animation.PNG)
 
 Included in the test folder are a test circuit and a state machine for testing the component
 
-![testCircuit](distribution/testCircuit.png)
+![testCircuit](distribution/testCircuit.PNG)
 
 ## How do I get set up? ##
 
