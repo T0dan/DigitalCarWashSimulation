@@ -12,7 +12,7 @@ The clock toggles every time there is an event in the car wash simulation.
 
 ![animation](distribution/animation.PNG)
 
-You can download the jar [here](https://github.com/T0dan/DigitalCarWashSimulation/blob/master/distribution/CarWashSimulationPlugin-1.0.jar)
+You can download the jar [here](https://github.com/T0dan/DigitalCarWashSimulation/blob/master/distribution/CarWashSimulationPlugin-1.0.jar).
 Put the file where you want and add the path to the file in the settings of digital under "Java library".
 
 Included in the test folder are a test circuit and a state machine for testing the component
